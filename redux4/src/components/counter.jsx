@@ -2,7 +2,7 @@ import React from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { plus1,plus10,minus10,minus1 } from './counterSlice';
 
-const Counter = () => {
+const CounteR = () => {
     const count = useSelector((state) => state.counter.value);
     const dispatch = useDispatch();
 
@@ -17,4 +17,4 @@ const Counter = () => {
     );
 };
 
-export default Counter;
+export default CounteR;
