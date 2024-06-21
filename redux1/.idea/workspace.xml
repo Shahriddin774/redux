@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f537725b-b57a-40fe-803e-45041a82ed52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/redux/reducer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/store.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +25,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2hsOVcHk9gPtK2w1kor4hyCg7dt" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -57,6 +56,9 @@
       <option name="presentableId" value="Default" />
       <updated>1718379342798</updated>
       <workItem from="1718379343834" duration="801000" />
+      <workItem from="1718796120179" duration="4000" />
+      <workItem from="1718796258159" duration="19000" />
+      <workItem from="1719007534812" duration="387000" />
     </task>
     <servers />
   </component>
