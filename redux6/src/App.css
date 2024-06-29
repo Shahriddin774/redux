@@ -1,0 +1,23 @@
+.useRCard {
+  border: 1px solid #ccc;
+  padding: 16px;
+  border-radius: 8px;
+  max-width: 300px;
+  text-align: center;
+}
+
+.useRCard img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.useRCard h2 {
+  font-size: 24px;
+  margin: 16px 0 8px 0;
+}
+
+.useRCard p {
+  font-size: 16px;
+  color: #666;
+}
